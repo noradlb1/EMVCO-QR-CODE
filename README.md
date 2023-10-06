@@ -1,2 +1,4 @@
 # EMVCO-QR-CODE
 EMVCO-QR-CODE
+
+![image](https://github.com/noradlb1/EMVCO-QR-CODE/assets/74623428/3018c660-7430-45b0-961b-581385544028)

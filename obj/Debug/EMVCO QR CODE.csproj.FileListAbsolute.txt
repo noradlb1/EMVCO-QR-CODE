@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\bin\Debug\EMVCO QR CODE.exe.config
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\bin\Debug\EMVCO QR CODE.exe
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\bin\Debug\EMVCO QR CODE.pdb
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\bin\Debug\QRCoder.dll
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO_QR_CODE.Form1.resources
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO_QR_CODE.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.exe
+C:\Users\MONSTERMC\Downloads\EMVCO-QR-CODE-master\EMVCO-QR-CODE-master\obj\Debug\EMVCO QR CODE.pdb
